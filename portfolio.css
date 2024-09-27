@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(149, 183, 241);
+}
+main {
+    background-color: bisque;
+}
+.projects{
+    display: flex;
+    flex-direction: row; 
+}
